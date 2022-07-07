@@ -1,2 +1,2 @@
 # Keystroke-Auth
-A rewrite in C++ of keyStroke Authentication
+Using Keystrokes to authenticate users by their typing.
